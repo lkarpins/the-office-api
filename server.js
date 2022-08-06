@@ -8,13 +8,14 @@ app.locals.quotes = [
   {
     _id: 1,
     content:
-      "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
+      "In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.",
     character: {
-      _id: 1,
-      firstname: "Michael",
-      lastname: "Scott",
+      _id: 16,
+      firstname: "Darryl",
+      lastname: "Philbin",
     },
   },
+
   {
     _id: 2,
     content: "Occasionally, I’ll hit somebody with my car. So sue me.",
@@ -26,20 +27,21 @@ app.locals.quotes = [
   },
   {
     _id: 3,
-    content: "Everybody stay calm! Stay f*&#!#% calm!",
+    content: "I feel God in this Chili’s tonight.",
     character: {
-      _id: 1,
-      firstname: "Michael",
-      lastname: "Scott",
+      _id: 4,
+      firstname: "Pam",
+      lastname: "Beesly",
     },
   },
   {
     _id: 4,
-    content: "I. Declare. Bankruptcy!",
+    content:
+      "It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.",
     character: {
-      _id: 1,
-      firstname: "Michael",
-      lastname: "Scott",
+      _id: 2,
+      firstname: "Jim",
+      lastname: "Halpert",
     },
   },
   {
@@ -55,22 +57,24 @@ app.locals.quotes = [
   {
     _id: 6,
     content:
-      "I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.",
+      "I'm glad Michael's getting help. He has a lot of issues, and he's stupid.",
     character: {
-      _id: 1,
-      firstname: "Michael",
-      lastname: "Scott",
+      _id: 12,
+      firstname: "Phyllis",
+      lastname: "Lapin",
     },
   },
   {
     _id: 7,
-    content: "Dwight, you ignorant slut!",
+    content:
+      "I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.",
     character: {
-      _id: 1,
-      firstname: "Michael",
-      lastname: "Scott",
+      _id: 10,
+      firstname: "Andy",
+      lastname: "Bernard",
     },
   },
+
   {
     _id: 8,
     content: "Well, Happy Birthday Jesus. Sorry your party’s so lame.",
@@ -83,52 +87,53 @@ app.locals.quotes = [
   {
     _id: 9,
     content:
-      "Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.",
+      "Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.",
     character: {
-      _id: 1,
-      firstname: "Michael",
-      lastname: "Scott",
+      _id: 5,
+      firstname: "Ryan",
+      lastname: "Howard",
     },
   },
+
   {
     _id: 10,
-    content:
-      "There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.",
+    content: "It has to be official, and it has to be urine.",
     character: {
-      _id: 1,
-      firstname: "Michael",
-      lastname: "Scott",
+      _id: 3,
+      firstname: "Dwight",
+      lastname: "Schrute",
     },
   },
+
   {
     _id: 11,
-    content:
-      "Once every hour, someone is involved in an internet scam. That man is Michael Scott.",
+    content: "Did I stutter?",
     character: {
-      _id: 4,
-      firstname: "Pam",
-      lastname: "Beesly",
+      _id: 11,
+      firstname: "Stanley",
+      lastname: "Hudson",
     },
   },
   {
     _id: 12,
-    content:
-      "It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.",
+    content: "I have a lot of questions. Number one, how dare you?",
     character: {
-      _id: 4,
-      firstname: "Pam",
-      lastname: "Beesly",
+      _id: 6,
+      firstname: "Kelly",
+      lastname: "Kapoor",
     },
   },
+
   {
     _id: 13,
-    content: "I feel God in this Chili’s tonight.",
+    content: "Everybody stay calm! Stay f*&#!#% calm!",
     character: {
-      _id: 4,
-      firstname: "Pam",
-      lastname: "Beesly",
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
     },
   },
+
   {
     _id: 14,
     content:
@@ -168,25 +173,29 @@ app.locals.quotes = [
       lastname: "Hudson",
     },
   },
+
   {
     _id: 18,
-    content: "Did I stutter?",
+    content:
+      "Once every hour, someone is involved in an internet scam. That man is Michael Scott.",
     character: {
-      _id: 11,
-      firstname: "Stanley",
-      lastname: "Hudson",
+      _id: 4,
+      firstname: "Pam",
+      lastname: "Beesly",
     },
   },
+
   {
     _id: 19,
     content:
-      "Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.",
+      "Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.",
     character: {
-      _id: 5,
-      firstname: "Ryan",
-      lastname: "Howard",
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
     },
   },
+
   {
     _id: 20,
     content:
@@ -199,13 +208,15 @@ app.locals.quotes = [
   },
   {
     _id: 21,
-    content: "I have a lot of questions. Number one, how dare you?",
+    content:
+      "It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.",
     character: {
-      _id: 6,
-      firstname: "Kelly",
-      lastname: "Kapoor",
+      _id: 4,
+      firstname: "Pam",
+      lastname: "Beesly",
     },
   },
+
   {
     _id: 22,
     content:
@@ -218,23 +229,24 @@ app.locals.quotes = [
   },
   {
     _id: 23,
-    content: "Bears, Beets, Battlestar Galactica.",
+    content: "If you pray enough, you can change yourself into a cat person.",
     character: {
-      _id: 2,
-      firstname: "Jim",
-      lastname: "Halpert",
+      _id: 7,
+      firstname: "Angela",
+      lastname: "Martin",
     },
   },
+
   {
     _id: 24,
-    content:
-      "It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.",
+    content: "I. Declare. Bankruptcy!",
     character: {
-      _id: 2,
-      firstname: "Jim",
-      lastname: "Halpert",
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
     },
   },
+
   {
     _id: 25,
     content:
@@ -257,23 +269,24 @@ app.locals.quotes = [
   },
   {
     _id: 27,
-    content:
-      "I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.",
+    content: "Dwight, you ignorant slut!",
     character: {
-      _id: 10,
-      firstname: "Andy",
-      lastname: "Bernard",
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
     },
   },
   {
     _id: 28,
-    content: "Sorry I annoyed you with my friendship.",
+    content:
+      "I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.",
     character: {
-      _id: 10,
-      firstname: "Andy",
-      lastname: "Bernard",
+      _id: 9,
+      firstname: "Oscar",
+      lastname: "Martinez",
     },
   },
+
   {
     _id: 29,
     content:
@@ -286,13 +299,15 @@ app.locals.quotes = [
   },
   {
     _id: 30,
-    content: "It has to be official, and it has to be urine.",
+    content:
+      "There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.",
     character: {
-      _id: 3,
-      firstname: "Dwight",
-      lastname: "Schrute",
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
     },
   },
+
   {
     _id: 31,
     content:
@@ -315,13 +330,14 @@ app.locals.quotes = [
   },
   {
     _id: 33,
-    content: "If you pray enough, you can change yourself into a cat person.",
+    content: "Bears, Beets, Battlestar Galactica.",
     character: {
-      _id: 7,
-      firstname: "Angela",
-      lastname: "Martin",
+      _id: 2,
+      firstname: "Jim",
+      lastname: "Halpert",
     },
   },
+
   {
     _id: 34,
     content:
@@ -334,24 +350,25 @@ app.locals.quotes = [
   },
   {
     _id: 35,
-    content:
-      "I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.",
+    content: "Sorry I annoyed you with my friendship.",
     character: {
-      _id: 9,
-      firstname: "Oscar",
-      lastname: "Martinez",
+      _id: 10,
+      firstname: "Andy",
+      lastname: "Bernard",
     },
   },
+
   {
     _id: 36,
     content:
-      "I'm glad Michael's getting help. He has a lot of issues, and he's stupid.",
+      "I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.",
     character: {
-      _id: 12,
-      firstname: "Phyllis",
-      lastname: "Lapin",
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
     },
   },
+
   {
     _id: 37,
     content:
@@ -381,14 +398,15 @@ app.locals.quotes = [
       lastname: "Lewis",
     },
   },
+
   {
     _id: 40,
     content:
-      "In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.",
+      "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
     character: {
-      _id: 16,
-      firstname: "Darryl",
-      lastname: "Philbin",
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
     },
   },
 ];
