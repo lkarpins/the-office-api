@@ -13,6 +13,7 @@ app.locals.quotes = [
       _id: 16,
       firstname: "Darryl",
       lastname: "Philbin",
+      gif: "https://media.giphy.com/media/OtSERKyJriAzUZoF53/giphy.gif",
     },
   },
 
@@ -23,7 +24,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: `<iframe src="https://giphy.com/embed/tlGD7PDy1w8fK" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/happy-the-office-surprised-tlGD7PDy1w8fK">via GIPHY</a></p>`,
+      gif: `https://media.giphy.com/media/gQmyUokrbbSpy/giphy.gif`,
     },
   },
   {
@@ -33,6 +34,7 @@ app.locals.quotes = [
       _id: 4,
       firstname: "Pam",
       lastname: "Beesly",
+      gif: "https://media.giphy.com/media/2whD01k0675Q4F7vs2/giphy.gif",
     },
   },
   {
@@ -43,6 +45,7 @@ app.locals.quotes = [
       _id: 2,
       firstname: "Jim",
       lastname: "Halpert",
+      gif: "https://media.giphy.com/media/9o59Pga7BWlDrzWhhh/giphy.gif",
     },
   },
   {
@@ -53,7 +56,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/36xoN4Pl4MVy/giphy.gif",
     },
   },
   {
@@ -64,6 +67,7 @@ app.locals.quotes = [
       _id: 12,
       firstname: "Phyllis",
       lastname: "Lapin",
+      gif: "https://media.giphy.com/media/6rvh1enyaBISOojJMa/giphy.gif",
     },
   },
   {
@@ -74,6 +78,7 @@ app.locals.quotes = [
       _id: 10,
       firstname: "Andy",
       lastname: "Bernard",
+      gif: "https://media.giphy.com/media/E2Twyi9GYrNIFxCMrT/giphy.gif",
     },
   },
 
@@ -84,7 +89,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/KekmZmcqbbC49WD3P2/giphy.gif",
     },
   },
   {
@@ -95,6 +100,7 @@ app.locals.quotes = [
       _id: 5,
       firstname: "Ryan",
       lastname: "Howard",
+      gif: "https://media.giphy.com/media/ugdr3PvDHY0VzBpQAE/giphy.gif",
     },
   },
 
@@ -105,6 +111,7 @@ app.locals.quotes = [
       _id: 3,
       firstname: "Dwight",
       lastname: "Schrute",
+      gif: "https://media.giphy.com/media/134DVXcD94sOWI/giphy.gif",
     },
   },
 
@@ -115,6 +122,7 @@ app.locals.quotes = [
       _id: 11,
       firstname: "Stanley",
       lastname: "Hudson",
+      gif: "https://media.giphy.com/media/y41Txh2pbwqLNNubOo/giphy.gif",
     },
   },
   {
@@ -124,6 +132,7 @@ app.locals.quotes = [
       _id: 6,
       firstname: "Kelly",
       lastname: "Kapoor",
+      gif: "https://media.giphy.com/media/SbN0WomN4S7Z7tpKOC/giphy.gif",
     },
   },
 
@@ -134,7 +143,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/1luXLMeNxsaNFMUuOe/giphy.gif",
     },
   },
 
@@ -146,6 +155,7 @@ app.locals.quotes = [
       _id: 4,
       firstname: "Pam",
       lastname: "Beesly",
+      gif: "https://media.giphy.com/media/8Qpxs1yXhoS5KtFqJJ/giphy.gif",
     },
   },
   {
@@ -156,6 +166,7 @@ app.locals.quotes = [
       _id: 17,
       firstname: "Creed",
       lastname: "Bratton",
+      gif: "https://media.giphy.com/media/yBwcx562kZ2FWlYb2A/giphy.gif",
     },
   },
   {
@@ -165,6 +176,7 @@ app.locals.quotes = [
       _id: 8,
       firstname: "Kevin",
       lastname: "Malone",
+      gif: "https://media.giphy.com/media/bC9czlgCMtw4cj8RgH/giphy.gif",
     },
   },
   {
@@ -175,6 +187,7 @@ app.locals.quotes = [
       _id: 11,
       firstname: "Stanley",
       lastname: "Hudson",
+      gif: "https://media.giphy.com/media/wqbAfFwjU8laXMWZ09/giphy.gif",
     },
   },
 
@@ -186,6 +199,7 @@ app.locals.quotes = [
       _id: 4,
       firstname: "Pam",
       lastname: "Beesly",
+      gif: "https://media.giphy.com/media/K5Tj81mL76xbZNwtbU/giphy.gif",
     },
   },
 
@@ -197,7 +211,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/ui1hpJSyBDWlG/giphy.gif",
     },
   },
 
@@ -209,6 +223,7 @@ app.locals.quotes = [
       _id: 6,
       firstname: "Kelly",
       lastname: "Kapoor",
+      gif: "https://media.giphy.com/media/fEaHTs5LNSPZgw6USY/giphy.gif",
     },
   },
   {
@@ -219,6 +234,7 @@ app.locals.quotes = [
       _id: 4,
       firstname: "Pam",
       lastname: "Beesly",
+      gif: "https://media.giphy.com/media/NnCUbcWeiEt8oddc6K/giphy.gif",
     },
   },
 
@@ -230,6 +246,7 @@ app.locals.quotes = [
       _id: 2,
       firstname: "Jim",
       lastname: "Halpert",
+      gif: "https://media.giphy.com/media/UKrREdiStQVry/giphy.gif",
     },
   },
   {
@@ -239,6 +256,7 @@ app.locals.quotes = [
       _id: 7,
       firstname: "Angela",
       lastname: "Martin",
+      gif: "https://media.giphy.com/media/BDc39OeNgqCXiig9TV/giphy.gif",
     },
   },
 
@@ -249,7 +267,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/8nM6YNtvjuezzD7DNh/giphy.gif",
     },
   },
 
@@ -261,6 +279,7 @@ app.locals.quotes = [
       _id: 10,
       firstname: "Andy",
       lastname: "Bernard",
+      gif: "https://media.giphy.com/media/ui4VjMUBGXhwgdwUnK/giphy.gif",
     },
   },
   {
@@ -271,6 +290,7 @@ app.locals.quotes = [
       _id: 10,
       firstname: "Andy",
       lastname: "Bernard",
+      gif: "https://media.giphy.com/media/2KIo8o5o6HOXUF8lwh/giphy.gif",
     },
   },
   {
@@ -280,7 +300,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/XBCJIv6xAyDfrajXoe/giphy.gif",
     },
   },
   {
@@ -291,6 +311,7 @@ app.locals.quotes = [
       _id: 9,
       firstname: "Oscar",
       lastname: "Martinez",
+      gif: "https://media.giphy.com/media/fP1cA793NCpWzlEE96/giphy.gif",
     },
   },
 
@@ -302,6 +323,7 @@ app.locals.quotes = [
       _id: 3,
       firstname: "Dwight",
       lastname: "Schrute",
+      gif: "https://media.giphy.com/media/txir5y39RpFC0/giphy.gif",
     },
   },
   {
@@ -312,7 +334,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif",
     },
   },
 
@@ -324,6 +346,7 @@ app.locals.quotes = [
       _id: 3,
       firstname: "Dwight",
       lastname: "Schrute",
+      gif: "https://media.giphy.com/media/GUq5eAguOTefGS9H6J/giphy.gif",
     },
   },
   {
@@ -334,6 +357,7 @@ app.locals.quotes = [
       _id: 3,
       firstname: "Dwight",
       lastname: "Schrute",
+      gif: "https://media.giphy.com/media/vrPSA3e7ZaM2A/giphy.gif",
     },
   },
   {
@@ -343,6 +367,7 @@ app.locals.quotes = [
       _id: 2,
       firstname: "Jim",
       lastname: "Halpert",
+      gif: "https://media.giphy.com/media/Viboroyy6r2py/giphy.gif",
     },
   },
 
@@ -354,6 +379,7 @@ app.locals.quotes = [
       _id: 7,
       firstname: "Angela",
       lastname: "Martin",
+      gif: "https://media.giphy.com/media/kGafOToTvXIAU8m9U5/giphy.gif",
     },
   },
   {
@@ -363,6 +389,7 @@ app.locals.quotes = [
       _id: 10,
       firstname: "Andy",
       lastname: "Bernard",
+      gif: "https://media.giphy.com/media/CbOJUVPfOUGiMQRieq/giphy.gif",
     },
   },
 
@@ -374,7 +401,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
-      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
+      gif: "https://media.giphy.com/media/JoePLWxLD7cGc/giphy.gif",
     },
   },
 
@@ -386,6 +413,7 @@ app.locals.quotes = [
       _id: 13,
       firstname: "Toby",
       lastname: "Flenderson",
+      gif: "https://media.giphy.com/media/eDkvbWAWY9uZni7GB1/giphy.gif",
     },
   },
   {
@@ -396,6 +424,7 @@ app.locals.quotes = [
       _id: 14,
       firstname: "Erin",
       lastname: "Hannon",
+      gif: "https://media.giphy.com/media/KX3F7yATgDsF3BogY2/giphy.gif",
     },
   },
   {
@@ -405,6 +434,7 @@ app.locals.quotes = [
       _id: 15,
       firstname: "Gabe",
       lastname: "Lewis",
+      gif: "https://media.giphy.com/media/V9nK2vKHC2BzjrcPlM/giphy.gif",
     },
   },
 
