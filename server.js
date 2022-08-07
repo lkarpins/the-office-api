@@ -23,6 +23,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
   {
@@ -52,6 +53,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
   {
@@ -82,6 +84,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
   {
@@ -131,6 +134,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
 
@@ -193,6 +197,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
 
@@ -244,6 +249,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
 
@@ -274,6 +280,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
   {
@@ -305,6 +312,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
 
@@ -366,6 +374,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
 
@@ -407,6 +416,7 @@ app.locals.quotes = [
       _id: 1,
       firstname: "Michael",
       lastname: "Scott",
+      gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
 ];
