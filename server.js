@@ -223,7 +223,7 @@ app.locals.quotes = [
       _id: 6,
       firstname: "Kelly",
       lastname: "Kapoor",
-      gif: "https://media.giphy.com/media/fEaHTs5LNSPZgw6USY/giphy.gif",
+      gif: "https://media.giphy.com/media/JvEMPOQubkyQx9YLQ5/giphy.gif",
     },
   },
   {
@@ -449,6 +449,58 @@ app.locals.quotes = [
       gif: "https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif",
     },
   },
+
+  {
+    _id: 41,
+    content: "Me think, why waste time say lot word, when few word do trick.",
+    character: {
+      _id: 8,
+      firstname: "Kevin",
+      lastname: "Malone",
+      gif: "https://media.giphy.com/media/DMNPDvtGTD9WLK2Xxa/giphy.gif",
+    },
+  },
+  {
+    _id: 42,
+    content: "I talk a lot, so I've learned to just tune myself out...",
+    character: {
+      _id: 6,
+      firstname: "Kelly",
+      lastname: "Kapoor",
+      gif: "https://media.giphy.com/media/P25xL2wKRtvEeYqik1/giphy.gif",
+    },
+  },
+  {
+    _id: 43,
+    content:
+      "I just feel lucky that I got a chance to share my crummy story with anyone out there who thinks they're the only one to take a dump in a paper shredder. You're not alone sister. Let's get a beer sometime.",
+    character: {
+      _id: 18,
+      firstname: "Meredith",
+      lastname: "Palmer",
+      gif: "https://media.giphy.com/media/F4b6mV6Xedr6yf3UNm/giphy.gif",
+    },
+  },
+  {
+    _id: 44,
+    content: "The Taliban is the worst. Great heroin, though.",
+    character: {
+      _id: 17,
+      firstname: "Creed",
+      lastname: "Bratton",
+      gif: "https://media.giphy.com/media/18cBOvpCIUGcIUgWQN/giphy.gif",
+    },
+  },
+  {
+    _id: 45,
+    content: "The worst thing about prison was the Dementors",
+    character: {
+      _id: 1,
+      firstname: "Michael",
+      lastname: "Scott",
+      gif: "https://media.giphy.com/media/HHN2RWwBDxzI4/giphy.gif",
+    },
+  },
 ];
 
 app.locals.characters = [
@@ -536,6 +588,11 @@ app.locals.characters = [
     _id: 17,
     firstname: "Creed",
     lastname: "Bratton",
+  },
+  {
+    _id: 18,
+    firstname: "Meredith",
+    lastname: "Palmer",
   },
 ];
 
